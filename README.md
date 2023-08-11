@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonagitsdata but you can call me Jon!
 - 👀 I’m interested in data analytics and an opportunity to utilize my skills
-- 🌱 I’m currently learning seveeral tools and methodologies in my Masters in Data Analytics program
+- 🌱 I’ve recently completed my Masters in Data Analytics program
 - 💞️ I’m looking to collaborate on ... interesting projects and repositories
 - 📫 How to reach me ... jona.nkangabwa@gmail.com
 
